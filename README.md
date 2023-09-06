@@ -8,6 +8,9 @@
 
 ---
 
+<h1>Socials</h1>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/huseyin_ozdemir_06)
+
 <h1>My current stats</h1>
 <a href="https://github.com/Sziro06/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Sziro06&show_icons=true&theme=radical"/>
