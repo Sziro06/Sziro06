@@ -6,6 +6,9 @@ Hüseyin's Github account
 <br>
 🌱 I am currently learning JS, Python, c++ with Arduino and C# with unity.
 
+---
+
+My current stats
 <a href="https://github.com/Sziro06/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Sziro06&show_icons=true&theme=radical"/>
 </a>
