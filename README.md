@@ -46,6 +46,3 @@
 <a href="https://github.com/Sziro06/github-readme-stats">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Sziro06&show_icons=true&theme=radical"/>
 </a>
-<a href="https://github.com/Sziro06/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sziro06&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
