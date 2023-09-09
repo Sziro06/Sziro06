@@ -4,7 +4,7 @@
 <br>
 🧐 I am interested in programming, write movie scripts, gaming, watch movies and play tennis.
 <br>
-🌱 I am currently learning JS, Python, c++ with Arduino and C# with unity.
+🌱 I am currently learning JS, Python, C++ with Arduino and C# with unity.
 
 ---
 ## 🌐 Socials:
