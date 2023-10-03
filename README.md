@@ -2,7 +2,7 @@
 
 👋 Hi, I am Hüseyin.
 <br>
-🧐 I am interested in programming, write movie scripts, gaming and watch movies.
+🧐 I am interested in programming, gaming and AI.
 <br>
 🌱 I am currently learning JS with THREE.js, React three fiber and Node.js, Python, C++ with Arduino and C# with unity.
 
