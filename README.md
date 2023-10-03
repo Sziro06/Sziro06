@@ -4,7 +4,7 @@
 <br>
 🧐 I am interested in programming, write movie scripts, gaming and watch movies.
 <br>
-🌱 I am currently learning JS with THREE.js and Node.js, Python, C++ with Arduino and C# with unity.
+🌱 I am currently learning JS with THREE.js, React three fiber and Node.js, Python, C++ with Arduino and C# with unity.
 
 ---
 ## 🌐 Socials:
