@@ -4,7 +4,7 @@
 <br>
 🧐 I am interested in programming, gaming and AI.
 <br>
-🌱 I am currently learning JS with THREE.js, React.js and Node.js, Python, C++ with Arduino and C# with unity.
+🌱 I am currently learning JS with THREE.js, React.js and Node.js, Python and C++ with Arduino.
 
 ---
 ## 🌐 Socials:
